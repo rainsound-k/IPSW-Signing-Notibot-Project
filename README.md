@@ -10,9 +10,9 @@
 - AWS EC2
 
 ## example
-![그림1](img/1.jpeg)
-![그림1](img/2.jpeg)
-![그림1](img/3.jpeg)
+![그림1](img/1.png)
+![그림1](img/2.png)
+![그림1](img/3.png)
 
 ## 사용
 - 플러스 친구 이름 : 사이닝서버봇
