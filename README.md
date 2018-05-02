@@ -10,9 +10,9 @@
 - AWS EC2
 
 ## example
-![그림1](img/1.jpeg)
-![그림1](img/2.jpeg)
-![그림1](img/3.jpeg)
+![그림1](img/1.jpeg){:width = 33%}
+![그림1](img/2.jpeg){:width = 33%}
+![그림1](img/3.jpeg){:width = 33%}
 
 ## 사용
 - 플러스 친구 이름 : 사이닝서버봇
