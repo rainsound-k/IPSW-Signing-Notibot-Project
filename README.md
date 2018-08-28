@@ -15,8 +15,8 @@
 ![그림1](img/3.png)
 
 ## 사용
-~~- 플러스 친구 이름 : 사이닝서버봇
-- 검색용 아이디 : signingbot
-- 홈 URL : http://pf.kakao.com/_iNhxaC~~
+~~- 플러스 친구 이름 : 사이닝서버봇~~
+~~- 검색용 아이디 : signingbot~~
+~~- 홈 URL : http://pf.kakao.com/_iNhxaC~~
 
 18/8/26 EC2 서버 배포 중단
